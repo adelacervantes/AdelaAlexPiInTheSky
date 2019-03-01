@@ -10,9 +10,9 @@ The basic idea is to attach the Pi to the end of an arrow and shoot it off a bow
 18-22nd marks week 1
 week1- Planning and finish plannng
 
-
+2/22-3/1
 week2- At the beginning get the plan approved by Dr.Shields. 
-
+2/22- 3/15
 weeks 2-4: Finish cad and coding 
 
 week5- printing 
@@ -97,6 +97,7 @@ Problems that we could potentially encounter throughout this project could inclu
 |            |            |
 |            |            |
 |____________|____________|
+
 
 
 
